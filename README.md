@@ -66,13 +66,12 @@ My name is Mahmoud Abdellahi. I have a PhD from Cardiff university brain imaging
 
 [![Step by step explanation of the Fourier transform, with code and animation (part 1)](https://i.postimg.cc/gkbw2W9J/thumb.png)](https://youtu.be/fB94_79iF88)
 
-[![Step by step EEG analysis with full matlab code, Automatic cleaning](https://i.postimg.cc/FFckjRNm/thumb.png)](https://youtu.be/L3ZH51Alnr0)
+[![Step by step EEG analysis with full matlab code, Automatic cleaning](https://i.postimg.cc/FFckjRNm/thumb.png)](https://youtu.be/L3ZH51Alnr0) 
 
-[![thumb.jpg](https://i.postimg.cc/bvbnTHty/thumb.jpg)](https://postimg.cc/67WT6Zcg)
+[![Correcting for multiple comparisons with cluster-based permutation](https://i.postimg.cc/bvbnTHty/thumb.jpg)](https://youtu.be/Dx143jsZDIs)
 
 [![Inter-trial phase coherence (ITPC) analysis of EEG signals](https://i.postimg.cc/28fKF2L6/thumb.png)](https://youtu.be/1hI_TPbfIks)
 
-[![Correcting for multiple comparisons with cluster-based permutation](https://i.postimg.cc/bvbnTHty/thumb.jpg)](https://youtu.be/Dx143jsZDIs)
 
 [![شرح Linear classification and gradient descent and some Linear algebra](https://i.postimg.cc/dQT8tF1k/Lec1-arabic.png)](https://www.youtube.com/watch?v=m7eh2aFqzIg&t=19s&ab_channel=MahmoudAbdellahi)
 
