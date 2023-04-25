@@ -24,7 +24,7 @@ My name is Mahmoud Abdellahi. I have a PhD from Cardiff university brain imaging
 
 ---
 
-<h2> <b> Recent research: </h2> </b>
+<h2> <b> Recent research </h2> </b>
 
 <h3>
 <li><a href="https://www.sciencedirect.com/science/article/pii/S1053811922009417?via%3Dihub">Targeting targeted memory reactivation: Characteristics of cued reactivation in sleep</a></li>
@@ -38,8 +38,9 @@ My name is Mahmoud Abdellahi. I have a PhD from Cardiff university brain imaging
 
 </br>
 </br>
-### 🧰 Languages and Tools
-
+<h2> <b> 🧰 Languages and Tools </h2> </b>
+</br>
+</br>
 <img align="left" alt="Matlab" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"/>
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
@@ -61,7 +62,10 @@ My name is Mahmoud Abdellahi. I have a PhD from Cardiff university brain imaging
 
 #
 
-### 📺 Some YouTube Videos
+<br /><br />
+
+<h2> <b> 🧰 📺 Some YouTube Videos </h2> </b>
+<br />
 
 [![Step by step explanation of the Fourier transform, with code and animation (part 1)](https://i.postimg.cc/gkbw2W9J/thumb.png)](https://youtu.be/fB94_79iF88)
 
