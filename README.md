@@ -1,6 +1,6 @@
 <p align="center">
   <!-- link: https://readme-typing-svg.demolab.com/demo/  and  https://devicon.dev/ -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&multiline=true&width=650&height=100&lines=10%2B+years+working+on+signals+and+machine+learning;PhD+working+on+multivariate+brain+signals+analyses;Studied+computer+science%2C+neuroscience;Teach+BCI%2C+machine+and+deep+learning%2C+and+computer+vision" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&multiline=true&width=650&height=200&lines=10%2B+years+working+on+signals+and+machine+learning;PhD+working+on+multivariate+brain+signals+analyses;Studied+computer+science%2C+neuroscience;Teaches+BCI%2C+machine+and+deep+learning%2C+and+computer+vision" alt="Typing SVG" /></a>
 </p>
 
 <!-- Social icons section -->
@@ -10,9 +10,7 @@
    
 </p>
 
-**`About me`**
-
-My name is Mahmoud Abdellahi. I have a PhD from Cardiff university brain imaging centre (CUBRIC). I worked on the classification of EEG signals during wake and sleep and developed a matlab toolbox for the analysis of multivariate data. The toolbox is called lively vectors and you can find its code here along with examples and you could also check my "[Mahmoud Abdellahi][youtube]" channel for videos and tutorials. I work on multivariate data analyses, statistical methods, and deep learning with matlab and Python.
+My name is Mahmoud Abdellahi. I have a PhD from Cardiff university brain imaging centre (CUBRIC), UK. I worked on the classification of EEG signals during wake and sleep and developed a matlab toolbox for the analysis of multivariate data. The toolbox is called lively vectors and you can find its code here along with examples and you could also check my "[Mahmoud Abdellahi][youtube]" channel for videos and tutorials. I work on multivariate data analyses, statistical methods, and deep learning with matlab and Python.
 
 <!-- Place this tag where you want the button to render. -->
 
@@ -22,9 +20,24 @@ My name is Mahmoud Abdellahi. I have a PhD from Cardiff university brain imaging
       <a href="https://www.youtube.com/channel/UCyi-2iS2-yQvhXPs3A4Vv6Q?sub_confirmation=1"><img src="https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/></a>
        
    </p>
+</br>
 
 ---
 
+<h2> <b> Recent research: </h2> </b>
+
+<h3>
+<li><a href="https://www.sciencedirect.com/science/article/pii/S1053811922009417?via%3Dihub">Targeting targeted memory reactivation: Characteristics of cued reactivation in sleep</a></li>
+
+<li><a href="https://www.biorxiv.org/content/10.1101/2021.12.01.470530v2">Targeted memory reactivation in human REM sleep elicits detectable reactivation</a></li>
+
+<li><a href="https://www.researchgate.net/profile/Mahmoud-Abdellahi/research"><i>See more on ResearchGate</i></a></li>
+</h3>
+
+---
+
+</br>
+</br>
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Matlab" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"/>
