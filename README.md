@@ -61,7 +61,7 @@ My name is Mahmoud Abdellahi. I have a PhD from Cardiff university brain imaging
 
 <br /><br />
 
-<h2> <b> 🧰 📺 Some YouTube Videos </h2> </b>
+<h2> <b> 📺 Some YouTube Videos </h2> </b>
 <br />
 
 [![Step by step explanation of the Fourier transform, with code and animation (part 1)](https://i.postimg.cc/gkbw2W9J/thumb.png)](https://youtu.be/fB94_79iF88)
