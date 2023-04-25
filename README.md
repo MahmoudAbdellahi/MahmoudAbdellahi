@@ -38,10 +38,7 @@ My name is Mahmoud Abdellahi. I have a PhD from Cardiff university brain imaging
 
 </br>
 </br>
-<h2> <b> 🧰 Languages and Tools </h2> </b>
-</br>
-</br>
-<img align="left" alt="Matlab" width="50px" style="padding-right:10px;" src="https://logos-world.net/wp-content/uploads/2020/12/MATLAB-Symbol.jpg"/>
+<h2> <b> 🧰 Languages and Tools </h2> </b> 
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 
