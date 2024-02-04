@@ -10,7 +10,7 @@
    
 </p>
 
-I am a post-doctoral researcher in computer science at University College London (UCL). I have a PhD from Cardiff university brain imaging centre (CUBRIC), UK. I worked on the classification of EEG signals during wake and sleep and developed a matlab toolbox for the analysis of multivariate data. The toolbox is called lively vectors and you can find its code here along with examples and you could also check my "[Mahmoud Abdellahi][youtube]" channel for videos and tutorials. I work on multivariate data analyses, statistical methods, and deep learning with matlab and Python.
+I am a post-doctoral researcher in computer science at University College London (UCL) [profile]. I have a PhD from Cardiff university brain imaging centre (CUBRIC), UK. I worked on the classification of EEG signals during wake and sleep and developed a matlab toolbox for the analysis of multivariate data. The toolbox is called lively vectors and you can find its code here along with examples and you could also check my "[Mahmoud Abdellahi][youtube]" channel for videos and tutorials. I work on multivariate data analyses, statistical methods, and deep learning with matlab and Python.
 
 <!-- Place this tag where you want the button to render. -->
 
@@ -76,3 +76,4 @@ I am a post-doctoral researcher in computer science at University College London
 [![شرح Linear classification and gradient descent and some Linear algebra](https://i.postimg.cc/dQT8tF1k/Lec1-arabic.png)](https://www.youtube.com/watch?v=m7eh2aFqzIg&t=19s&ab_channel=MahmoudAbdellahi)
 
 [youtube]: https://www.youtube.com/channel/UCyi-2iS2-yQvhXPs3A4Vv6Q
+[profile]: https://profiles.ucl.ac.uk/94893-mahmoud-abdellahi
